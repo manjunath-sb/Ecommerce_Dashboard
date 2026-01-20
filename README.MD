@@ -162,6 +162,19 @@ All time analysis uses the Date Table instead of raw date fields.
 
 ---
 
+## Dashboard Preview
+
+### Executive Summary
+![Executive Summary](executive_summary.png)
+
+### Operations Overview
+![Operations Overview](operations_overview.png)
+
+### Customer & Product Insights
+![Customer & Product Insights](customer_products_insights.png)
+
+---
+
 ## Outcome
 
 This project demonstrates:
